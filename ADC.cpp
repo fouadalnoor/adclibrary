@@ -24,7 +24,7 @@
  */
 
 /* ADC.cpp: Implements the control of one or more ADC modules of Teensy 3.x, LC
- *
+ * Test line. 
  */
 
 #include "ADC.h"
